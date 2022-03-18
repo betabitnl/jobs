@@ -1,3 +1,5 @@
+betabit {...}
+
 # Kom jij bij ons werken?
 Betabit gelooft in het belang van transparantie en duidelijkheid. In een vakgebied waar spraakverwarring en misverstanden veel voorkomen, is heldere communicatie noodzakelijk. “Zeg wat je doet, doe wat je zegt” is het credo dat centraal staat in de werkwijze. Het bepaalt hoe er met medewerkers, met partners en de klant omgegaan wordt. Daarbij kiest Betabit er nadrukkelijk voor om klanten vanuit de regio te bedienen.
 
