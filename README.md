@@ -7,9 +7,9 @@ Betabit gelooft in het belang van transparantie en duidelijkheid. In een vakgebi
 ---
 ```
 {
-    location: ['Rotterdam', 'Eindhoven', 'Utrecht', 'Amsterdam', 'Den Haag', 'Apeldoorn'],
-    hoursPerWeek: 40,
-    level: ['junior','medior','senior']
+    "location": ["Rotterdam", "Eindhoven", "Utrecht", "Amsterdam", "Den Haag", "Apeldoorn"],
+    "hoursPerWeek": 40,
+    "level": ["junior","medior","senior"]
 }
 ```
 
@@ -17,9 +17,9 @@ Betabit gelooft in het belang van transparantie en duidelijkheid. In een vakgebi
 ---
 ```
 {
-    location: ['Rotterdam', 'Eindhoven', 'Utrecht', 'Amsterdam', 'Den Haag', 'Apeldoorn'],
-    durationInWeeks: 20,
-    level: ['student']
+    "location": ["Rotterdam", "Eindhoven", "Utrecht", "Amsterdam", "Den Haag", "Apeldoorn"],
+    "durationInWeeks": 20,
+    "level": ["student"]
 }
 ```
 
