@@ -1,3 +1,5 @@
+betabit {...}
+
 # Wie zijn wij? En wat doen wij?
 Wij zijn Betabit, een .NET gespecialiseerde softwareleverancier met zes vestigingen in Nederland, namelijk in Rotterdam, Eindhoven, Utrecht, Amsterdam, Den Haag en Apeldoorn. Hierdoor worden onze klanten geholpen door medewerkers uit dezelfde regio. En behouden wij onze persoonlijke en betrokken sfeer. Voor alle regiokantoren zijn wij op zoek naar studenten die bij ons willen komen afstuderen.
 
